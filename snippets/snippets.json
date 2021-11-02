@@ -217,6 +217,30 @@
     ],
     "description": "Creates New Action File"
   },
+
+  "Redux New useDispatch": {
+    "prefix": "adnud",
+    "body": [
+      "import { useDispatch } from 'react-redux';",
+      "",
+      "const ${1:exampleDispatch} = useDispatch();",
+      "",
+      "${1:exampleDispatch}({ type: '${2:exampleAction}', payload: '${3:exampleValue}' });"
+    ],
+    "description": "Display a useDispatch Structure"
+  },
+  
+  "Redux New useSelector": {
+    "prefix": "adnus",
+    "body": [
+      "import { useSelector } from 'react-redux';",
+      "",
+      "const ${1:exampleSelector} = useSelector(",
+      "  (state) => state.${2:exampleReducer}.${3:exampleState}",
+      ");"
+    ],
+    "description": "Display a useSelector Structure"
+  },
    
   "Debbug": {
     "prefix": "adcl",
