@@ -63,6 +63,8 @@ Abaixo segue a lista com todos os Snippets disponíveis e os gatilhos para cada 
 |                `adcr →` | Estrutura - **Redux Combined Reducers**                                       |
 |                `adnr →` | Adiciona Novo **Reducer**                                                     |
 |                `adna →` | Adiciona Nova **Action**                                                      |
+|                `adnud →` | Estrutura - **useDispatch**                                                      |
+|                `adnus →` | Estrutura - **useSelector**                                                      |
 |                `adcl →` | Cria um **console.log**                                                       |
 
 <!-- CONTRIBUTING -->
