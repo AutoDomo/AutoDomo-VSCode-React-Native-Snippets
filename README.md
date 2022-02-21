@@ -58,7 +58,7 @@ Abaixo segue a lista com todos os Snippets disponíveis e os gatilhos para cada 
 |                `ado →` | Cria um **Objeto**                                                             |
 |                `ada →` | Cria um **Array**                                                              |
 |                `adsfc →` | Cria um **Stateless Functional Component**                                   |
-|                `adrs →` | Estrutura - **Redux Store**                                                   |
+|                `adrs2 →` | Estrutura - **Redux Store**                                                   |
 |                `adrt →` | Estrutura - **Redux Type**                                                    |
 |                `adcr →` | Estrutura - **Redux Combined Reducers**                                       |
 |                `adnr →` | Adiciona Novo **Reducer**                                                     |

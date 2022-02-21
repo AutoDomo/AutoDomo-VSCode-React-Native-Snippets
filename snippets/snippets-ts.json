@@ -128,7 +128,7 @@
   },
 
   "Redux Store": {
-    "prefix": "adrs",
+    "prefix": "adrs2",
     "body": [
       "import { createStore } from 'redux';",
       "import { persistStore, persistReducer } from 'redux-persist';",
